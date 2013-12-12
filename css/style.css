@@ -1,0 +1,16 @@
+body {
+	background-color: lightblue;
+}
+
+#tech {
+	height: 100px;
+
+}
+
+.ss-icon {
+	font-size: 100px;
+}
+
+.ss-icon:hover {
+  color: lightgrey;
+}
