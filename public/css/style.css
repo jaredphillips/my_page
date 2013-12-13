@@ -9,7 +9,7 @@ body {
 
 /* Nav bar styling */
 
-nav {
+header {
 	border-top: 3px solid #EB7F00;
 	margin-top: 50px;
 	padding-top: 15px;
@@ -35,18 +35,18 @@ nav {
 }
 
 
-nav ul {
+header ul {
 	display: inline;
 	list-style: none;
-	padding: 0 8px 0 8px;
 	float: right;
 }
 
-nav li {
-	display: inline;
+header li {
+	display: inline-block;
+	padding: 0 8px 0 8px;
 }
 
-nav .nav-links {
+header .header-links {
 	display: inline;
 	text-decoration: none;
 	margin: 0 8px 0 8px;
@@ -56,7 +56,7 @@ nav .nav-links {
 	padding-bottom: 10px;
 }
 
-nav .nav-links:hover {
+header .header-links:hover {
 	border-bottom: 3px solid #ACF0F2;
 	transition: .2s;
 }
