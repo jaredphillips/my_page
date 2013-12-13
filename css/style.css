@@ -1,13 +1,17 @@
 @import url("normalize.css");
 
+/* Set up */
+
 body {
 	padding-left: 15%;
 	padding-right: 15%;
 }
 
+/* Nav bar styling */
+
 nav {
 	border-top: 3px solid #EB7F00;
-	margin-top: 10px;
+	margin-top: 50px;
 	padding-top: 15px;
 	position: fixed;
 	width: 70%;
@@ -54,6 +58,9 @@ nav .nav-links:hover {
 	border-bottom: 3px solid #ACF0F2;
 	transition: .2s;
 }
+
+/* First section */
+
 
 
 
