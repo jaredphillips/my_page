@@ -19,18 +19,19 @@ nav {
 }
 
 .my-name {
+	padding-left: 16px;
 	font-family: 'Grand Hotel', cursive;
 	font-size: 38px;
 	color: #666666;
 	display: inline-block;
 	text-decoration: none;
-	transition: 1s;
+	transition: 0.3s;
 	padding-right: 5px;
 }
 
 .my-name:hover {
-	transition: 1s;
-	color: #EB7F00;
+	transition: 0.3s;
+	color: #ACF0F2;
 }
 
 
