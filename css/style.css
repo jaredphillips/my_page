@@ -20,7 +20,7 @@ nav {
 
 .my-name {
 	font-family: 'Grand Hotel', cursive;
-	font-size: 35px;
+	font-size: 38px;
 	color: #666666;
 	display: inline-block;
 	text-decoration: none;
@@ -52,6 +52,7 @@ nav .nav-links {
 	font-size: 16px;
 	font-family: 'Codystar', cursive;
 	transition: .5s;
+	padding-bottom: 10px;
 }
 
 nav .nav-links:hover {
