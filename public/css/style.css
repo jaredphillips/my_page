@@ -5,6 +5,7 @@
 body {
 	padding-left: 15%;
 	padding-right: 15%;
+	background: url('../images/light_grey.png');
 }
 
 /* Nav bar styling */
@@ -42,7 +43,6 @@ header {
 	font-family: 'Codystar', cursive;
 	transition: .9s;
 	padding-top: 20px;
-	padding-right: 10px;
 }
 
 .header-links:hover {
