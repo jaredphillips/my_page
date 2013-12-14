@@ -21,16 +21,16 @@ header {
 .my-name {
 	padding-left: 16px;
 	font-family: 'Grand Hotel', cursive;
-	font-size: 38px;
+	font-size: 40px;
 	color: #666666;
 	display: inline-block;
 	text-decoration: none;
-	transition: 0.3s;
+	transition: 0.9s;
 	padding-right: 5px;
 }
 
 .my-name:hover {
-	transition: 0.3s;
+	transition: 0.9s;
 	color: #ACF0F2;
 }
 
@@ -52,13 +52,13 @@ header .header-links {
 	margin: 0 8px 0 8px;
 	font-size: 16px;
 	font-family: 'Codystar', cursive;
-	transition: .5s;
+	transition: .9s;
 	padding-bottom: 10px;
 }
 
 header .header-links:hover {
 	border-bottom: 3px solid #ACF0F2;
-	transition: .2s;
+	transition: .9s;
 }
 
 /* First section */
