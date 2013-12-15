@@ -18,6 +18,7 @@ header {
 	height: 10%;
 	margin-bottom: 10px;
 	border-bottom: 1px solid lightgrey;
+	background-color: white;
 }
 
 .my-name {
@@ -44,6 +45,7 @@ header {
 	font-family: 'Codystar', cursive;
 	transition: .9s;
 	padding-top: 20px;
+	color: #EB7F00;
 }
 
 .header-links:hover {
@@ -54,6 +56,30 @@ header {
 
 /*=====================================*/
 
+.about { 
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+	margin-top: 30px;
+	height: 300px;
+	width: 100%;
+	background-color: white;
+}
 
+footer {
+	margin-top: 80px;
+	text-align: center;
+}
 
+.ss-icon {
+	font-size: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: #666666;
+	transition: 0.9s;
+}
+
+.ss-icon:hover {
+	color: #ACF0F2;
+	transition: 0.9s;
+}
 
