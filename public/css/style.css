@@ -59,15 +59,58 @@ header {
 .about { 
 	border: 1px solid lightgrey;
 	border-radius: 5px;
-	margin-top: 30px;
-	height: 300px;
+	margin-top: 45px;
+	height: 350px;
 	width: 100%;
 	background-color: white;
+
+}
+
+.about p {
+	font-family: 'Codystar', cursive;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 30px;
+	font-size: 21px;
+	line-height: 1.4;
+}
+
+#llc {
+	color: #EB7F00;
+	text-decoration: none;
+	transition: 0.9s;
+}
+
+#llc:hover {
+	border-bottom: 1px dotted #1695A3;
+	transition: 0.9s;
+}
+
+
+#hackeryou {
+	color: #EB7F00;
+	text-decoration: none;
+}
+
+#hackeryou:hover {
+	border-bottom: 1px dotted #1695A3;
+	transition: 0.9s;
+}
+
+#rails {
+	color: red;
+	text-decoration: none;
+}
+
+#rails:hover {
+	border-bottom: 1px dotted #1695A3;
+	transition: 0.9s;
 }
 
 footer {
 	margin-top: 80px;
 	text-align: center;
+	margin-bottom: 50px;
 }
 
 .ss-icon {
